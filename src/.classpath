@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="server/|Messages/|client/" kind="src" path=""/>
+	<classpathentry kind="src" path="client"/>
+	<classpathentry kind="src" path="Messages"/>
+	<classpathentry kind="src" path="server"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
